@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
 
-##💻 Tech Stack
+## 💻 Tech Stack
 
