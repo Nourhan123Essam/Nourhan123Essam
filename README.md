@@ -6,9 +6,9 @@ Welcome to my GitHub! I'm a Computer Science graduate passionate about solving c
 ## 📬 **Let's Connect**  
 
 - [LinkedIn](https://www.linkedin.com/in/nourhan-essam123/)  
-- [LeetCode](#https://leetcode.com/u/norhan123/)  
-- [GitHub](#https://github.com/Nourhan123Essam)
-- [Gmail](#nourhan.essam.makhlouf@gmail.com)
+- [LeetCode](https://leetcode.com/u/norhan123/)  
+- [GitHub](https://github.com/Nourhan123Essam)
+- [Gmail](nourhan.essam.makhlouf@gmail.com)
 
 ## 🚀 **About Me**  
 
