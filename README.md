@@ -3,12 +3,7 @@
 
 Welcome to my GitHub! I'm a Computer Science graduate passionate about solving complex problems and building scalable, user-friendly applications. With a strong foundation in data structures and algorithms, combined with expertise in full-stack development, I strive to create solutions that are both efficient and impactful.
 
-## 📬 **Let's Connect**  
 
-- [LinkedIn](https://www.linkedin.com/in/nourhan-essam123/)  
-- [LeetCode](https://leetcode.com/u/norhan123/)  
-- [GitHub](https://github.com/Nourhan123Essam)
-- [Gmail](nourhan.essam.makhlouf@gmail.com)
 
 ## 🚀 **About Me**  
 
@@ -30,6 +25,12 @@ Welcome to my GitHub! I'm a Computer Science graduate passionate about solving c
    - Continuously improving by working on **side projects** and studying advanced topics like software design patterns and scalable architectures.  
    - Open to new challenges in software engineering and web development.  
 
+## 📬 **Let's Connect**  
+
+- [LinkedIn](https://www.linkedin.com/in/nourhan-essam123/)  
+- [LeetCode](https://leetcode.com/u/norhan123/)  
+- [GitHub](https://github.com/Nourhan123Essam)
+- [Gmail](nourhan.essam.makhlouf@gmail.com)
 
 
 ## 💻 Tech Stack:
